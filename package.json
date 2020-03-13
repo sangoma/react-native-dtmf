@@ -1,6 +1,6 @@
 {
   "name": "react-native-dtmf",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React Native library capable of generating DTMF tones",
   "main": "index.js",
   "repository": {
